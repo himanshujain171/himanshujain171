@@ -16,5 +16,6 @@ Here are some ideas to get you started:
 
 --> ⚡ Fun fact
 ```
-Learning coding has stunning cognitive-related benefits, such as problem-solving, computational thinking, analytical thinking, creative thinking, leadership-related skills, and even teamwork.
+Learning coding has stunning cognitive-related benefits, such as problem-solving, computational thinking, 
+analytical thinking, creative thinking, leadership-related skills, and even teamwork.
 ```
